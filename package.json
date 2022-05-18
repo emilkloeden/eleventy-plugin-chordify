@@ -1,6 +1,6 @@
 {
   "name": "@emilkloeden/eleventy-plugin-chordify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exposes a \"chordify\" filter as an eleventy plugin.",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/emilkloeden/eleventy-plugin-chordify#readme",
   "dependencies": {
-    "@emilkloeden/chordify": "^1.0.0"
+    "@emilkloeden/chordify": "^1.0.1"
   }
 }

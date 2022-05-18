@@ -1,0 +1,22 @@
+{
+  "name": "@emilkloeden/eleventy-plugin-chordify",
+  "version": "1.0.0",
+  "description": "Exposes a \"chordify\" filter as an eleventy plugin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilkloeden/eleventy-plugin-chordify.git"
+  },
+  "author": "Emil Kloeden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilkloeden/eleventy-plugin-chordify/issues"
+  },
+  "homepage": "https://github.com/emilkloeden/eleventy-plugin-chordify#readme",
+  "dependencies": {
+    "@emilkloeden/chordify": "^1.0.0"
+  }
+}
